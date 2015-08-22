@@ -1,4 +1,4 @@
-#Semantic HTML5 rebuild
+#Semantic HTML5 Rebuild
 
 ###Part I
 
@@ -6,5 +6,5 @@ In this assignment I rebuilt backtothefuture.com using semantic HTML5 architectu
 
 ###Part II
 
-I rebuilt backtothefuture.com using React Components made with semantic HTML5
+I rebuilt backtothefuture.com using React Components made with semantic HTML5npm
 

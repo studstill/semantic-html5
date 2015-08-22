@@ -1,0 +1,32 @@
+{
+  "name": "semantic-html5",
+  "version": "0.1.0",
+  "description": "Semantic HTML5 representation of backtothefuture.com",
+  "main": "react-bttf.html",
+  "dependencies": {
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "reactify": "^1.1.1"
+  },
+  "browserify": {
+    "transform": [
+      "reactify"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify js/app.jsx -o bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studstill/semantic-html5.git"
+  },
+  "author": "Jason Studstill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/studstill/semantic-html5/issues"
+  },
+  "homepage": "https://github.com/studstill/semantic-html5#readme"
+}
