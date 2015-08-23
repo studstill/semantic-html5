@@ -4,9 +4,11 @@ var React = require('react');
 module.exports = React.createClass({
   render: function() {
     return (
-      <div>
-        Main
-      </div>
+      <section className="main slider">
+        <img alt="BTTFAd1" />
+        <img alt="BTTFAd2" />
+        <img alt="BTTFAd3" />
+      </section>
     );
   }
-})
+});

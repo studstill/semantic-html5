@@ -5,8 +5,15 @@ module.exports = React.createClass({
   render: function() {
     return (
       <div>
-        Nav
+        <nav>
+          <li>SHOP</li>
+          <li>facebook</li>
+          <li>Twitter</li>
+          <li>Pintrest</li>
+          <li>Search</li>
+        </nav>
       </div>
     );
   }
 });
+
