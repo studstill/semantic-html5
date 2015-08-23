@@ -8,3 +8,11 @@ In this assignment I rebuilt backtothefuture.com using semantic HTML5 architectu
 
 I rebuilt backtothefuture.com using React Components made with semantic HTML5npm
 
+###How to View:
+
+- Clone this repo to your machine
+- run `npm install`
+- run `npm run build`
+- open `react-bttf.html` in your browser (does not include styling)
+- open `react-bttf-with-style` in your browser (includes CSS styling for extra credit)
+
